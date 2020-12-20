@@ -54,8 +54,8 @@ def sol2(input_data):
     for i in range(0, end_output_voltage + 1):
         matrix = np.linalg.matrix_power(adj_matrix, i)
         count_distribution.append(matrix[0][end_output_voltage])
-    # plt.plot(count_distribution)
-    # plt.show()
+    plt.plot(count_distribution)
+    plt.show()
     return sum(count_distribution)
 
 

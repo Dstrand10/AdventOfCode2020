@@ -5,7 +5,6 @@ def find_two_numbers_adding_up(in_data, add_up_sum):
         complement_nbr = add_up_sum - first_nbr
         if complement_nbr in tmp_list:
             return first_nbr, complement_nbr
-    return None, None
 
 
 def find_three_numbers_adding_up(in_data, add_up_sum):
