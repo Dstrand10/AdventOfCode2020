@@ -2,22 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="479a972a-84cd-4816-b407-c3b49d98aa15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_18/day18" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_18/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_18/input_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_18/input_test_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_19/day19" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_19/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_19/input_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_20/day20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_20/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_20/input_sea_monster.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_20/input_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_20/input_test_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_19/day19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_21/day21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_21/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_21/input_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_22/day22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_22/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_22/input_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_23/day23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_23/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_23/input_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_24/day24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_24/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_24/input_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_25/day25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_25/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2020/2020_12_25/input_test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AoC2020/2020_12_01/day01.py" beforeDir="false" afterPath="$PROJECT_DIR$/AoC2020/2020_12_01/day01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AoC2020/2020_12_10/day10.py" beforeDir="false" afterPath="$PROJECT_DIR$/AoC2020/2020_12_10/day10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AoC2020/2020_12_19/day19_help.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,93 +28,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_20/day20.py">
+        <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_19/day19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="224" column="174" selection-start-line="224" selection-start-column="174" selection-end-line="224" selection-end-column="174" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_20/input_test_2.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_20/input_sea_monster.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_20/input_test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-690">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/1437855905/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="3763" column="8" selection-start-line="3763" selection-start-column="8" selection-end-line="3763" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/Cellar/python@3.9/3.9.0_5/Frameworks/Python.framework/Versions/3.9/lib/python3.9/codecs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="309" selection-start-line="309" selection-end-line="309" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/lib/python3.9/site-packages/numpy/core/_methods.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/lib/python3.9/site-packages/numpy/core/arrayprint.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="1385" selection-start-line="1385" selection-end-line="1385" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_20/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25264">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="225">
+              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -129,8 +50,21 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>filter</find>
-      <find>print</find>
       <find>hej</find>
+      <find>contains</find>
+      <find>jhtfzk</find>
+      <find>)</find>
+      <find>1:</find>
+      <find>5</find>
+      <find>\n75:</find>
+      <find>[42, 14]</find>
+      <find>\n0:</find>
+      <find>\n72:</find>
+      <find>prin</find>
+      <find>print</find>
+      <find>lru_cache</find>
+      <find>f</find>
+      <find>0:</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -153,22 +87,46 @@
         <option value="$PROJECT_DIR$/AoC2020/2020_12_19/input.txt" />
         <option value="$PROJECT_DIR$/AoC2020/2020_12_01/day01.py" />
         <option value="$PROJECT_DIR$/AoC2020/2020_12_10/day10.py" />
-        <option value="$PROJECT_DIR$/AoC2020/2020_12_19/input_test.txt" />
         <option value="$PROJECT_DIR$/AoC2020/2020_12_19/day19" />
         <option value="$PROJECT_DIR$/AoC2020/2020_12_20/input.txt" />
         <option value="$PROJECT_DIR$/AoC2020/2020_12_20/input_test.txt" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
         <option value="$PROJECT_DIR$/AoC2020/2020_12_20/input_test_2.txt" />
         <option value="$PROJECT_DIR$/AoC2020/2020_12_20/input_sea_monster.txt" />
         <option value="$PROJECT_DIR$/AoC2020/2020_12_20/day20.py" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_21/input_test.txt" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_21/input.txt" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_21/day21.py" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_22/input_test.txt" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_22/input.txt" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_22/day22.py" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_19/day19_recursion" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_23/input_test.txt" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_23/input.txt" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_23/day23.py" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_24/input_test.txt" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_24/input.txt" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_24/day24.py" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_25/input_test.txt" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_25/input.txt" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_25/day25.py" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_23/day23part2.py" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_23/day23_help.py" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_23/day23_part2.py" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_19/day19_new.py" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_19/day19_cyk.py" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_19/input_test.txt" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_19/input_test2.txt" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_19/day19_help.py" />
+        <option value="$PROJECT_DIR$/AoC2020/2020_12_19/day19.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="155" />
+    <option name="x" value="16" />
     <option name="y" value="23" />
-    <option name="width" value="1525" />
-    <option name="height" value="948" />
+    <option name="width" value="1655" />
+    <option name="height" value="949" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -191,43 +149,7 @@
               <item name="AdventOfCode2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="AdventOfCode2020" type="462c0819:PsiDirectoryNode" />
               <item name="AoC2020" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_12_01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AdventOfCode2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdventOfCode2020" type="462c0819:PsiDirectoryNode" />
-              <item name="AoC2020" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_12_10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AdventOfCode2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdventOfCode2020" type="462c0819:PsiDirectoryNode" />
-              <item name="AoC2020" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_12_11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AdventOfCode2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdventOfCode2020" type="462c0819:PsiDirectoryNode" />
-              <item name="AoC2020" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_12_15" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AdventOfCode2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdventOfCode2020" type="462c0819:PsiDirectoryNode" />
-              <item name="AoC2020" type="462c0819:PsiDirectoryNode" />
               <item name="2020_12_19" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AdventOfCode2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdventOfCode2020" type="462c0819:PsiDirectoryNode" />
-              <item name="AoC2020" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_12_20" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AdventOfCode2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdventOfCode2020" type="462c0819:PsiDirectoryNode" />
-              <item name="AoC2020" type="462c0819:PsiDirectoryNode" />
-              <item name="Accumulator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -260,50 +182,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.day20">
-    <configuration name="day10" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AdventOfCode2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC2020/2020_12_10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC2020/2020_12_10/day10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="day11Cleaner" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AdventOfCode2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC2020/2020_12_11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC2020/2020_12_11/day11Cleaner.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="day19" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.day19_cyk">
+    <configuration name="day19_cyk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AdventOfCode2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,7 +195,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC2020/2020_12_19/day19" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC2020/2020_12_19/day19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,7 +204,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day20" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day19_help" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AdventOfCode2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -332,11 +212,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC2020/2020_12_20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC2020/2020_12_19" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC2020/2020_12_20/day20.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC2020/2020_12_19/day19_help.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,7 +225,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratch_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day23_part2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AdventOfCode2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -353,11 +233,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC2020/2020_12_23" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC2020/2020_12_23/day23.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day23part2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AdventOfCode2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC2020/2020_12_23" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC2020/2020_12_23/day23_help.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day25" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AdventOfCode2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC2020/2020_12_25" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC2020/2020_12_25/day25.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -368,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.day20" />
-        <item itemvalue="Python.scratch_3" />
-        <item itemvalue="Python.day19" />
-        <item itemvalue="Python.day11Cleaner" />
-        <item itemvalue="Python.day10" />
+        <item itemvalue="Python.day19_cyk" />
+        <item itemvalue="Python.day19_help" />
+        <item itemvalue="Python.day23_part2" />
+        <item itemvalue="Python.day23part2" />
+        <item itemvalue="Python.day25" />
       </list>
     </recent_temporary>
   </component>
@@ -390,23 +312,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="948" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="952" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32943925" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.56542057" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49685535" visible="true" weight="0.14225437" />
+      <window_info id="Structure" order="1" sideWeight="0.5031447" side_tool="true" weight="0.28128725" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32943925" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25700936" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5338785" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32790697" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25697675" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2988372" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32943925" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.30688447" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -424,60 +346,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_16/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC2020/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_16/input_test.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_16/input_test_2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_17/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_17/input_test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_17/input_test_2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_17/day17.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="189" column="11" selection-start-line="189" selection-start-column="11" selection-end-line="189" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_16/day16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="80" selection-start-line="80" selection-end-line="96" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_18/input_test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -545,30 +413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_19/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="115" column="17" lean-forward="true" selection-start-line="115" selection-start-column="17" selection-end-line="115" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_19/input_test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="6" selection-start-line="7" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_19/day19">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="138" column="12" lean-forward="true" selection-start-line="138" selection-start-column="12" selection-end-line="138" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_10/day10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
@@ -583,34 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="83">
           <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/1437855905/numpy/core/_multiarray_umath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1033">
-          <caret line="785" column="4" selection-start-line="785" selection-start-column="4" selection-end-line="785" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/1437855905/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="3763" column="8" selection-start-line="3763" selection-start-column="8" selection-end-line="3763" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python@3.9/3.9.0_5/Frameworks/Python.framework/Versions/3.9/lib/python3.9/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
         </state>
       </provider>
     </entry>
@@ -658,8 +474,225 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_20/day20.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="224" column="174" selection-start-line="224" selection-start-column="174" selection-end-line="224" selection-end-column="174" />
+        <state relative-caret-position="229">
+          <caret line="228" lean-forward="true" selection-start-line="228" selection-end-line="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_21/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="374" selection-start-line="42" selection-start-column="374" selection-end-line="42" selection-end-column="374" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_21/input_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_21/day21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="79" selection-start-line="79" selection-end-line="97" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_22/input_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_22/day22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="96" column="15" lean-forward="true" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_22/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_24/input_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_24/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="485" column="38" selection-start-line="485" selection-start-column="38" selection-end-line="485" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_24/day24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="98" selection-start-line="98" selection-end-line="132" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_25/input_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/1437855905/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="479" column="4" selection-start-line="479" selection-start-column="4" selection-end-line="479" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/1437855905/numpy/core/_multiarray_umath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-602">
+          <caret line="6546" column="4" selection-start-line="6546" selection-start-column="4" selection-end-line="6546" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_25/day25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_23/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_23/day23_help.py" />
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_23/day23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="131" column="19" selection-start-line="131" selection-start-column="19" selection-end-line="131" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_25/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_23/input_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python@3.9/3.9.0_5/Frameworks/Python.framework/Versions/3.9/lib/python3.9/functools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="521" selection-start-line="521" selection-end-line="521" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python@3.9/3.9.0_5/Frameworks/Python.framework/Versions/3.9/lib/python3.9/pprint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/functools.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python@3.9/3.9.0_5/Frameworks/Python.framework/Versions/3.9/lib/python3.9/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="135" column="14" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python@3.9/3.9.0_5/Frameworks/Python.framework/Versions/3.9/lib/python3.9/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="323" selection-start-line="323" selection-end-line="323" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_19/input_test2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="46" column="40" lean-forward="true" selection-start-line="32" selection-end-line="46" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_19/day19_recursion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_19/day19_help.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="138" column="12" lean-forward="true" selection-start-line="138" selection-start-column="12" selection-end-line="138" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_19/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_19/input_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2020/2020_12_19/day19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
         </state>
       </provider>
     </entry>
